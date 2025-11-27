@@ -50,3 +50,10 @@ This project demonstrates structured programming using functions, arrays/structu
 * File handling (if persistence feature implemented)
 
 ---
+
+
+SCREENSHOTS:
+<img width="971" height="825" alt="Screenshot 2025-11-27 111503" src="https://github.com/user-attachments/assets/cf46c0bf-b162-4e84-8a08-62d614f86bfd" />
+<img width="987" height="921" alt="Screenshot 2025-11-27 111445" src="https://github.com/user-attachments/assets/0ad45583-dfcd-410e-af16-0cccc7c4be1b" />
+<img width="860" height="976" alt="Screenshot 2025-11-27 111424" src="https://github.com/user-attachments/assets/c591c449-f491-4229-8df9-91de1649b5bf" />
+
