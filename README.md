@@ -52,6 +52,8 @@ SCREENSHOTS:
 <img width="987" height="921" alt="Screenshot 2025-11-27 111445" src="https://github.com/user-attachments/assets/a4d73990-1170-43a4-adb1-e41d070dfead" />
 <img width="971" height="825" alt="Screenshot 2025-11-27 111503" src="https://github.com/user-attachments/assets/dd1d7ef6-fe67-4169-9feb-7c15cbb5cb55" />
 <img width="467" height="708" alt="Screenshot 2025-11-28 075232" src="https://github.com/user-attachments/assets/54b4edf2-ec9b-4d66-9088-4faf2ae3c6ee" />
+<img width="467" height="708" alt="Screenshot 2025-11-28 075232" src="https://github.com/user-attachments/assets/92f99888-a256-4a86-815e-7331531811c4" />
+
 
 
 
