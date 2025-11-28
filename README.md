@@ -18,11 +18,6 @@ This project demonstrates structured programming using functions, arrays/structu
 | ✈ Add New Flight Details       | Manually insert new flight information (flight number, name, destination, time, seats). |
 | 📄 View All Flights            | Display stored flight records in a clean tabular format.                                |
 | 🔍 Search Flight               | Search flights by flight number or destination.                                         |
-| 🪑 Seat Booking / Cancellation | Reserve or cancel passenger seats (if included in code).                                |
-| 🗑 Delete Flight (optional)    | Remove selected flight record from system.                                              |
-| 💾 File Storage (optional)     | Flights can be saved and retrieved from a .txt file for persistence.                  |
-| 🔐 Input Validation            | Ensures valid flight numbers, time format, and numeric seat count.                      |
-| 🧭 Menu-Driven Navigation      | Simple, user-friendly terminal menus keep workflow organized.                           |
 
 ---
 
@@ -53,7 +48,10 @@ This project demonstrates structured programming using functions, arrays/structu
 
 
 SCREENSHOTS:
-<img width="971" height="825" alt="Screenshot 2025-11-27 111503" src="https://github.com/user-attachments/assets/cf46c0bf-b162-4e84-8a08-62d614f86bfd" />
-<img width="987" height="921" alt="Screenshot 2025-11-27 111445" src="https://github.com/user-attachments/assets/0ad45583-dfcd-410e-af16-0cccc7c4be1b" />
-<img width="860" height="976" alt="Screenshot 2025-11-27 111424" src="https://github.com/user-attachments/assets/c591c449-f491-4229-8df9-91de1649b5bf" />
+<img width="860" height="976" alt="Screenshot 2025-11-27 111424" src="https://github.com/user-attachments/assets/1df92216-21a5-40de-b0c8-b5f3e974bd14" />
+<img width="987" height="921" alt="Screenshot 2025-11-27 111445" src="https://github.com/user-attachments/assets/a4d73990-1170-43a4-adb1-e41d070dfead" />
+<img width="971" height="825" alt="Screenshot 2025-11-27 111503" src="https://github.com/user-attachments/assets/dd1d7ef6-fe67-4169-9feb-7c15cbb5cb55" />
+
+
+
 
