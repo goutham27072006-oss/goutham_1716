@@ -1,6 +1,6 @@
 ## 🚀 *Project Title*
 
-*Flight Management(c programming)*
+*Flight Management (c programming)*
 
 ---
 
