@@ -18,7 +18,7 @@ This project demonstrates structured programming using functions, arrays/structu
 | ✈ Add New Flight Details       | Manually insert new flight information (flight number, name, destination, time, seats). |
 | 📄 View All Flights            | Display stored flight records in a clean tabular format.                                |
 | 🔍 Search Flight               | Search flights by flight number or destination.                                         |
-
+|exit                             |exit
 ---
 
 ## 🛠 *Technical Requirements*
